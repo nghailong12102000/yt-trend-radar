@@ -38,14 +38,6 @@ jobs:
       - name: Export CSV
         run: python export_csv.py
 
-      # Tùy chọn: chỉ chạy nếu bạn muốn giữ repo private và đẩy CSV lên Gist.
-      - name: Push CSV to Gist
-        if: ${{ secrets.GIST_ID != '' }}
-        env:
-          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
-        run: python push_gist.py
-
       - name: Commit snapshot
         run: |
           git config user.name  "trend-radar-bot"
