@@ -37,6 +37,22 @@ def main() -> None:
     if not rows:
         raise SystemExit(f"Chưa có snapshot cho {TODAY}. Chạy fetch.py trước.")
 
+    # Lọc theo thời lượng TRƯỚC khi chuẩn hóa điểm, để thang điểm chỉ tính
+    # trên nhóm video mình thực sự quan tâm.
+    total_before = len(rows)
+    rows = [r for r in rows
+            if config.MIN_DURATION_SEC <= (r["duration_sec"] or 0) <= config.MAX_DURATION_SEC]
+    print(f"Lọc thời lượng {config.MIN_DURATION_SEC}-{config.MAX_DURATION_SEC}s: "
+          f"giữ {len(rows)}/{total_before} dòng")
+    if not rows:
+        raise SystemExit(
+            "Không còn dòng nào sau khi lọc thời lượng.\n"
+            "Trending đang toàn Shorts. Thử hạ MIN_VIEWS trong config.py, "
+            "hoặc bật thêm category.")
+    if len(rows) < 40:
+        print("  ! Cảnh báo: mẫu quá nhỏ, kết quả sẽ nhiễu. "
+              "Cân nhắc hạ MIN_VIEWS hoặc bật thêm category trong config.py.")
+
     # view của cùng video ở lần snapshot gần nhất trước đó
     prev = {
         r["video_id"]: (r["views"], r["snapshot_date"])
@@ -100,11 +116,14 @@ def main() -> None:
                 + w["underdog"] * underdogs[i])
 
         rpm = config.REGIONS.get(r["region"], {}).get("rpm", 0.5)
+        # thưởng cho video đủ dài để chèn quảng cáo giữa bài
+        midroll = (config.MIDROLL_BONUS
+                   if (r["duration_sec"] or 0) >= config.MIDROLL_SEC else 1.0)
         cat_w = config.CATEGORIES.get(str(r["category_id"]), {}).get("weight", 0.5)
         # bonus nhẹ cho chủ đề xuất hiện ở nhiều nước
         spread = 1 + 0.06 * (region_count[r["video_id"]] - 1)
 
-        score = round(base * rpm * cat_w * spread * 100, 2)
+        score = round(base * rpm * cat_w * spread * midroll * 100, 2)
 
         out_rows.append((r["video_id"], TODAY, r["region"],
                          round(outliers[i], 4), round(velocities[i], 2),

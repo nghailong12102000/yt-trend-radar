@@ -61,6 +61,24 @@ WEIGHTS = {
     "underdog":    0.10,  # kênh càng nhỏ mà lên được trending càng đáng chú ý
 }
 
+# ---------------------------------------------------------------------------
+# LỌC THEO THỜI LƯỢNG — quan trọng nhất với kênh long-form
+# Trang trending hiện bị Shorts chiếm gần hết. Shorts và long-form là hai
+# cuộc chơi khác nhau: RPM chênh nhau khoảng 10-20 lần, format khác, cách
+# phân phối khác. Lọc bỏ Shorts thì bảng xếp hạng mới nói đúng chuyện.
+#
+# Shorts tối đa 180 giây. Đặt ngưỡng ngay trên mốc đó.
+# Muốn nghiên cứu Shorts thay vì long-form: đặt MIN_DURATION_SEC = 0
+# và MAX_DURATION_SEC = 180.
+# ---------------------------------------------------------------------------
+MIN_DURATION_SEC = 181
+MAX_DURATION_SEC = 100_000        # không giới hạn trên
+
+# Mốc 8 phút: video từ đây trở lên được chèn quảng cáo giữa bài, tức doanh
+# thu trên mỗi 1000 view cao hơn đáng kể. Thưởng điểm cho nhóm này.
+MIDROLL_SEC = 480
+MIDROLL_BONUS = 1.15
+
 # Ngưỡng lọc
 MIN_VIEWS = 20_000        # bỏ video quá nhỏ, nhiễu
 MAX_SUBS_FOR_UNDERDOG = 250_000

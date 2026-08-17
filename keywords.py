@@ -49,6 +49,19 @@ il lo gli un una di da del della che non per con sul come piu
 de het een van is zijn in op voor met dat niet ook maar aan te
 och att en ett som det den för med av inte har
 i w z na do nie to jest się że po za od
+then than them there their here into over under out off again once
+both each few more other some such only own same too very will just
+did does done get gets got go goes going come comes came take takes
+took know knows knew see sees saw say says said want wants like likes
+one two three ever never always little big small good bad
+""".split())
+
+# Từ nền tảng và hashtag rác: không mang thông tin chủ đề nào cả
+STOP |= set("""
+shorts short viral trending fyp foryou foryoupage tiktok reels reel
+subscribe like comment share link profile bio channel watch
+part pt ep season finale compilation clip clips edit edits
+usa uk usa2024 usa2025 asmr satisfying funny cute crazy insane
 """.split())
 
 WORD_RE = re.compile(r"[a-zA-ZÀ-ÿĀ-ſ0-9']+", re.UNICODE)

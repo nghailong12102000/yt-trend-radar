@@ -25,8 +25,8 @@ import config
 
 TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-LATEST_HEADER = ["score", "outlier", "region", "n_regions", "title",
-                 "channel", "subs", "views", "category", "url"]
+LATEST_HEADER = ["score", "outlier", "mins", "top_region", "n_regions", "regions",
+                 "title", "channel", "subs", "views", "category", "url"]
 HISTORY_HEADER = ["date", "score", "outlier", "region", "title", "channel", "url"]
 
 
@@ -72,29 +72,41 @@ def main() -> None:
     conn = sqlite3.connect(config.DB_PATH)
     conn.row_factory = sqlite3.Row
 
+    # Lấy dư rồi mới khử trùng lặp, để đủ 300 video DUY NHẤT chứ không phải
+    # 300 dòng (mỗi video xuất hiện ở 8-16 nước nên 300 dòng chỉ ra ~60 video).
     rows = conn.execute("""
         SELECT s.video_id, s.title, s.channel_title, s.channel_subs, s.views,
-               s.region, s.category_id, sc.score, sc.outlier_raw, sc.region_count
+               s.region, s.category_id, s.duration_sec,
+               sc.score, sc.outlier_raw, sc.region_count
         FROM scores sc JOIN snapshots s
           ON s.video_id = sc.video_id AND s.snapshot_date = sc.snapshot_date
          AND s.region = sc.region
         WHERE sc.snapshot_date = ?
-        ORDER BY sc.score DESC LIMIT 300""", (TODAY,)).fetchall()
+        ORDER BY sc.score DESC LIMIT 4000""", (TODAY,)).fetchall()
 
     if not rows:
         raise SystemExit(f"Chưa có điểm cho {TODAY}. Chạy fetch.py và score.py trước.")
 
     # ---------------- latest.csv : ghi đè ----------------
+    # Gom TẤT CẢ quốc gia của mỗi video. Nếu chỉ giữ dòng điểm cao nhất thì
+    # US và NO luôn thắng (do hệ số RPM), và bảng mất hết tính đa quốc gia.
+    all_regions: dict[str, list[str]] = {}
+    for r in rows:
+        all_regions.setdefault(r["video_id"], []).append(r["region"])
+
     seen, latest = set(), []
     for r in rows:
         if r["video_id"] in seen:
             continue
         seen.add(r["video_id"])
+        regs = sorted(set(all_regions[r["video_id"]]))
         latest.append([
-            round(r["score"]),                 # số nguyên, tránh lỗi locale
+            round(r["score"]),
             round(r["outlier_raw"], 1),
+            round((r["duration_sec"] or 0) / 60, 1),
             r["region"],
-            r["region_count"],
+            len(regs),
+            ", ".join(regs),
             clean(r["title"], 120),
             clean(r["channel_title"], 60),
             r["channel_subs"] or 0,
@@ -102,13 +114,14 @@ def main() -> None:
             config.CATEGORIES.get(str(r["category_id"]), {}).get("name", ""),
             f"https://youtu.be/{r['video_id']}",
         ])
+        if len(latest) >= 300:
+            break
     write_replace(f"{config.OUT_DIR}/latest.csv", LATEST_HEADER, latest)
     print(f"latest.csv   : {len(latest)} dòng (ghi đè)")
 
     # ---------------- history.csv : nối thêm ----------------
-    hist = [[TODAY, round(r["score"]), round(r["outlier_raw"], 1), r["region"],
-             clean(r["title"], 120), clean(r["channel_title"], 60),
-             f"https://youtu.be/{r['video_id']}"] for r in rows[:50]]
+    hist = [[TODAY, row[0], row[1], row[3], row[6], row[7], row[11]]
+            for row in latest[:50]]
     total = write_append(f"{config.OUT_DIR}/history.csv", HISTORY_HEADER, hist)
     print(f"history.csv  : +{len(hist)} dòng (tổng {total})")
 
