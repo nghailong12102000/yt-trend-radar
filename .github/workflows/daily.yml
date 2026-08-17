@@ -1,0 +1,55 @@
+name: Daily Trend Radar
+
+on:
+  schedule:
+    # 06:00 UTC = 13:00 giờ VN. Chạy sau khi Mỹ đã hết ngày.
+    - cron: "0 6 * * *"
+  workflow_dispatch:      # cho phép bấm chạy tay để test
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch trending
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python fetch.py
+
+      - name: Score
+        run: python score.py
+
+      - name: Extract keywords
+        run: python keywords.py
+
+      # Xuất CSV ra đường dẫn cố định để Google Sheets tự kéo bằng IMPORTDATA.
+      # Không cần xác thực Google.
+      - name: Export CSV
+        run: python export_csv.py
+
+      # Tùy chọn: chỉ chạy nếu bạn muốn giữ repo private và đẩy CSV lên Gist.
+      - name: Push CSV to Gist
+        if: ${{ secrets.GIST_ID != '' }}
+        env:
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+        run: python push_gist.py
+
+      - name: Commit snapshot
+        run: |
+          git config user.name  "trend-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "radar: $(date -u +%F)"
+          git push
