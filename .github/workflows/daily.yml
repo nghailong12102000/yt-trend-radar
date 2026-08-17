@@ -43,5 +43,21 @@ jobs:
           git config user.name  "trend-radar-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "radar: $(date -u +%F)"
-          git push
+          if git diff --staged --quiet; then
+            echo "Không có dữ liệu mới, bỏ qua."
+            exit 0
+          fi
+          git commit -m "radar: $(date -u +%F)"
+          # Repo có thể đã thay đổi trong lúc workflow chạy (5-6 phút).
+          # Kéo về rồi thử lại tối đa 3 lần thay vì fail ngay.
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin ${{ github.ref_name }} \
+               && git push origin HEAD:${{ github.ref_name }}; then
+              echo "Đã đẩy dữ liệu lên thành công."
+              exit 0
+            fi
+            echo "Lần $i thất bại, thử lại sau 5 giây..."
+            sleep 5
+          done
+          echo "Không đẩy được sau 3 lần thử."
+          exit 1
