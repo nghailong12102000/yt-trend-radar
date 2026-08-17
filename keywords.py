@@ -111,7 +111,9 @@ def main() -> None:
           ON s.video_id = sc.video_id AND s.snapshot_date = sc.snapshot_date
          AND s.region = sc.region
         WHERE sc.snapshot_date = ?
-        ORDER BY sc.score DESC LIMIT 400""", (TODAY,)).fetchall()
+          AND s.duration_sec BETWEEN ? AND ?
+        ORDER BY sc.score DESC LIMIT 400""",
+        (TODAY, config.MIN_DURATION_SEC, config.MAX_DURATION_SEC)).fetchall()
 
     if not rows:
         raise SystemExit(f"Chưa có điểm cho {TODAY}. Chạy fetch.py và score.py trước.")

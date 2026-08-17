@@ -129,6 +129,14 @@ def main() -> None:
                          round(outliers[i], 4), round(velocities[i], 2),
                          round(deltas[i], 2), score, region_count[r["video_id"]]))
 
+    # Xóa điểm cũ của hôm nay TRƯỚC khi ghi. Nếu chỉ dùng INSERT OR REPLACE,
+    # các dòng từ lần chạy trước (ví dụ khi bộ lọc thời lượng còn khác) sẽ nằm
+    # lại trong bảng và trộn lẫn vào kết quả.
+    deleted = conn.execute(
+        "DELETE FROM scores WHERE snapshot_date = ?", (TODAY,)).rowcount
+    if deleted:
+        print(f"Đã dọn {deleted} dòng điểm cũ của {TODAY}")
+
     conn.executemany(
         "INSERT OR REPLACE INTO scores VALUES (?,?,?,?,?,?,?,?)", out_rows)
     conn.commit()

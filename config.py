@@ -8,21 +8,13 @@
 # ---------------------------------------------------------------------------
 REGIONS = {
     "US": {"name": "United States", "rpm": 1.00, "lang": "en"},
-    "CA": {"name": "Canada",        "rpm": 0.80, "lang": "en"},
     "GB": {"name": "United Kingdom","rpm": 0.85, "lang": "en"},
-    "IE": {"name": "Ireland",       "rpm": 0.70, "lang": "en"},
+    "CA": {"name": "Canada",        "rpm": 0.80, "lang": "en"},
     "AU": {"name": "Australia",     "rpm": 0.85, "lang": "en"},
     "DE": {"name": "Germany",       "rpm": 0.75, "lang": "de"},
-    "CH": {"name": "Switzerland",   "rpm": 0.85, "lang": "de"},
-    "AT": {"name": "Austria",       "rpm": 0.65, "lang": "de"},
     "NO": {"name": "Norway",        "rpm": 0.90, "lang": "no"},
-    "SE": {"name": "Sweden",        "rpm": 0.75, "lang": "sv"},
-    "DK": {"name": "Denmark",       "rpm": 0.80, "lang": "da"},
     "NL": {"name": "Netherlands",   "rpm": 0.70, "lang": "nl"},
-    "FR": {"name": "France",        "rpm": 0.55, "lang": "fr"},
-    "IT": {"name": "Italy",         "rpm": 0.35, "lang": "it"},
-    "ES": {"name": "Spain",         "rpm": 0.35, "lang": "es"},
-    "PL": {"name": "Poland",        "rpm": 0.30, "lang": "pl"},
+    "SE": {"name": "Sweden",        "rpm": 0.75, "lang": "sv"},
 }
 
 # ---------------------------------------------------------------------------
@@ -48,8 +40,34 @@ CATEGORIES = {
     "28": {"name": "Science & Tech",    "weight": 1.0},
 }
 
-# Chỉ lấy category có weight > 0 để tiết kiệm quota
-ACTIVE_CATEGORIES = [k for k, v in CATEGORIES.items() if v["weight"] > 0]
+# ---------------------------------------------------------------------------
+# KẾ HOẠCH TÌM KIẾM
+# fetch.py dùng search.list thay cho chart=mostPopular. Lý do: trang Trending
+# với video dài chỉ toàn livestream và kênh triệu sub, không dùng được cho
+# một kênh mới. search.list cho phép hỏi thẳng: "video dài nào MỚI ĐĂNG gần
+# đây đang được xem nhiều nhất".
+#
+# CHI PHÍ: search.list tốn 100 unit/lần gọi (mostPopular chỉ tốn 1).
+# Quota miễn phí là 10.000/ngày nên phải đếm cẩn thận.
+#
+# videoDuration của YouTube:
+#   medium = 4-20 phút   (vùng vàng của long-form, có quảng cáo giữa bài)
+#   long   = trên 20 phút
+# ---------------------------------------------------------------------------
+SEARCH_CATEGORIES = ["26", "28", "2", "15", "27"]   # Howto, Sci&Tech, Autos, Pets, Education
+
+SEARCH_PLAN = [
+    # (videoDuration, danh sách quốc gia)
+    ("medium", ["US", "GB", "CA", "AU", "DE", "NO", "NL", "SE"]),
+    ("long",   ["US", "GB", "DE"]),
+]
+
+LOOKBACK_DAYS = 7          # chỉ tìm video đăng trong 7 ngày gần nhất
+DAILY_QUOTA_BUDGET = 8_500 # tự dừng trước khi chạm trần 10.000
+SEARCH_COST = 100
+LIST_COST = 1
+
+ACTIVE_CATEGORIES = SEARCH_CATEGORIES
 
 # ---------------------------------------------------------------------------
 # TRỌNG SỐ CHẤM ĐIỂM
@@ -71,8 +89,9 @@ WEIGHTS = {
 # Muốn nghiên cứu Shorts thay vì long-form: đặt MIN_DURATION_SEC = 0
 # và MAX_DURATION_SEC = 180.
 # ---------------------------------------------------------------------------
-MIN_DURATION_SEC = 181
-MAX_DURATION_SEC = 100_000        # không giới hạn trên
+MIN_DURATION_SEC = 300      # 5 phút. Dưới mức này không phải long-form.
+MAX_DURATION_SEC = 5_400    # 90 phút. Trên mức này gần như chắc chắn là
+                            # livestream VOD - không phải nội dung tái tạo được.
 
 # Mốc 8 phút: video từ đây trở lên được chèn quảng cáo giữa bài, tức doanh
 # thu trên mỗi 1000 view cao hơn đáng kể. Thưởng điểm cho nhóm này.
@@ -81,6 +100,10 @@ MIDROLL_BONUS = 1.15
 
 # Ngưỡng lọc
 MIN_VIEWS = 20_000        # bỏ video quá nhỏ, nhiễu
+
+# Bỏ qua kênh quá lớn. Video của MrBeast hay MKBHD lên top vì thương hiệu,
+# không vì chủ đề - giữ lại chỉ làm lệch thang điểm và không học được gì.
+MAX_SUBS_RESEARCH = 5_000_000
 MAX_SUBS_FOR_UNDERDOG = 250_000
 MIN_HOURS_SINCE_PUBLISH = 6   # tránh chia cho số quá nhỏ làm velocity nổ
 
