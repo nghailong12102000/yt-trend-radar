@@ -1,30 +1,77 @@
 term,n_videos,n_regions,regions,weight,max_outlier,example_title,example_url
-review,3,8,"AU, CA, DE, GB, NL, NO, SE, US",1561,2.6,TATA AERIS SMART BASE MODEL REVIEW✅ TATA AERIS BASE MODEL RS. 5.29 LAKH ✅ AERIS @NarrusAutovlogs,https://youtu.be/CNWzaQCThh8
-has,3,7,"AU, CA, DE, GB, NL, NO, US",1547,0.7,Maryland has a new train line. I rode the first train.,https://youtu.be/FkPo5kpqWHc
-worth,3,7,"AU, CA, DE, GB, NL, NO, US",1487,3.5,Banks Just Found Out What AI Debt Is Virtually Worth Zero,https://youtu.be/75QRligfXUI
-beautiful,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1427,21.0,Ostrich: Cheetahs Chase the World’s Fastest Bird | Bird Survival,https://youtu.be/EOw6pRtyUl8
-major,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1354,6.2,AWD Hondas Have a Major Problem.,https://youtu.be/OdK-8VsF6mo
-animals,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1320,21.0,Ostrich: Cheetahs Chase the World’s Fastest Bird | Bird Survival,https://youtu.be/EOw6pRtyUl8
-wildlife,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1320,21.0,Ostrich: Cheetahs Chase the World’s Fastest Bird | Bird Survival,https://youtu.be/EOw6pRtyUl8
-animal,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1320,21.0,Ostrich: Cheetahs Chase the World’s Fastest Bird | Bird Survival,https://youtu.be/EOw6pRtyUl8
-brakes,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1274,0.3,Drum vs Disc Brakes on Motorcycles - What We Lost,https://youtu.be/bbZqs5yz8fg
-massive,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1205,4.7,Queensland’s Severe Storm Season Could Be Massive...,https://youtu.be/AmuifNpP7qA
-ford,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1167,0.8,Why This Ford F-150 Paint Job Is So Difficult,https://youtu.be/wTOyhGOD3k4
-pro,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1107,1.2,"Jio-Airtel Big News😍,Flipkart BBD & Amazon GIF Sale Date,iPhone 18 Pro Greenline😭,New ShoppingRule",https://youtu.be/3M08WXcuT-c
-solar,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1032,0.5,Saving His Family from this Heatwave with the Jackery Solar Generator 5000 Plus!,https://youtu.be/C0zR7enmsYU
-apple ultra,2,8,"AU, CA, DE, GB, NL, NO, SE, US",922,4.7,Time to Say Goodbye...,https://youtu.be/aFyxFE5O8c4
-starship,2,6,"AU, DE, NL, NO, SE, US",872,0.6,星艦火箭成功首次入軌飛行 有五大亮點三大問題 釋放V3星鏈衛星成未來主力 星艦距離登月還有多遠｜馬克時空,https://youtu.be/YVncNGdbAPI
-diesel,2,8,"AU, CA, DE, GB, NL, NO, SE, US",831,3.3,Saving His Family from this Heatwave with the Jackery Solar Generator 5000 Plus!,https://youtu.be/C0zR7enmsYU
-recipe,2,6,"AU, DE, GB, NL, NO, US",758,0.2,तंदूरी चिकन बनाने का ये तरीका देख पुराने सारे तरीके भूल जाओगे! 🔥 Tandoori Chicken Recipe,https://youtu.be/Scbh52J-9vs
-real,2,3,"DE, GB, US",678,4.3,STOP Buying These 13 UK MILK BRANDS (Only 6 Are ACTUALLY Real Milk),https://youtu.be/uMYdGkOzrGY
-tested,2,6,"AU, CA, DE, GB, NO, US",612,0.8,I Tested OpenAI's New Personal Assistant Agent: DOTS,https://youtu.be/V_1Vn2WfpEY
-cooking,3,6,"AU, DE, GB, NL, NO, US",556,0.8,"Beautiful Harvest Day | Harvesting Fresh Fruits, Rustic Village Cooking & Countryside Living",https://youtu.be/J3V0tcaLaXE
-finally,2,3,"DE, GB, US",513,0.4,Finally china border dekh lia pehli baar 😍 Snowfall shuru hogai achanak 🌨️,https://youtu.be/jlWKtDZM8kk
-found,2,4,"AU, DE, GB, US",499,3.5,Banks Just Found Out What AI Debt Is Virtually Worth Zero,https://youtu.be/75QRligfXUI
-farming,2,3,"DE, GB, US",431,0.2,These were a REAL SURPRISE!,https://youtu.be/YZ3ZAnwIhCA
-ban,2,4,"CA, DE, GB, US",416,3.3,💔 Meri Hi Best Friend Meri Sautan Ban Gayi! 😭 | Part 3,https://youtu.be/hvRJWgOTKNQ
-pehli,2,3,"DE, GB, US",392,0.4,Finally china border dekh lia pehli baar 😍 Snowfall shuru hogai achanak 🌨️,https://youtu.be/jlWKtDZM8kk
-adventures,2,4,"CA, DE, GB, US",310,1.2,చివరికి 1 year Complete అయ్యింది 🥹🥹 Thankyou So Much guys 🤗🤗 Telugu Adventures,https://youtu.be/eZ2yARybIts
-gaya,2,3,"DE, GB, US",170,0.3,MIPAN & ZUZUZU Akhirnya Bisa Gaya Wheelie Naik Motor! ROBLOX,https://youtu.be/GerIecet4ZU
-about,2,3,"DE, GB, US",161,1.0,Fixing Everything That Annoys Me About My BMW E30!,https://youtu.be/JAZEEqVa1eM
-rescue,2,3,"CA, DE, US",149,0.3,"4104 Bus Rescue Continues — Brakes, Air Tanks & Electrical Problems",https://youtu.be/6PNeVW3NvGk
+cat,3,8,"AU, CA, DE, GB, NL, NO, SE, US",4007,184.7,Mini Dachshund’s Heartwarming Reaction to an Abandoned Puppy!,https://youtu.be/wqv60_fBJXY
+truth,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3257,129.3,GOPHER Robot Entered the “Noah’s Ark” Site - Its Camera Revealing The TRUTH,https://youtu.be/APPXMa3sjbg
+robot,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3221,225.9,GOPHER Robot Entered the “Noah’s Ark” Site - Its Camera Revealing The TRUTH,https://youtu.be/APPXMa3sjbg
+salon academy,3,7,"AU, CA, DE, GB, NO, SE, US",3144,6.5,Sirsa Beauty & Unisex Salon Academy is live,https://youtu.be/eI4mtTZ_-2E
+sirsa beauty,3,7,"AU, CA, DE, GB, NO, SE, US",3144,6.5,Sirsa Beauty & Unisex Salon Academy is live,https://youtu.be/eI4mtTZ_-2E
+beauty unisex,3,7,"AU, CA, DE, GB, NO, SE, US",3144,6.5,Sirsa Beauty & Unisex Salon Academy is live,https://youtu.be/eI4mtTZ_-2E
+unisex salon,3,7,"AU, CA, DE, GB, NO, SE, US",3144,6.5,Sirsa Beauty & Unisex Salon Academy is live,https://youtu.be/eI4mtTZ_-2E
+built,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3009,225.9,I Built Invisible Earphones From Scratch,https://youtu.be/q7nG6rCxbK4
+movie,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2925,107.7,The Truth About the Mother Who Gave Birth to a Dragon | The Monster Mother 4 | Full Fantasy Movie 4K,https://youtu.be/L_iLVojMO18
+dog,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2923,184.7,Mini Dachshund’s Heartwarming Reaction to an Abandoned Puppy!,https://youtu.be/wqv60_fBJXY
+many,2,7,"AU, CA, DE, GB, NO, SE, US",2520,3.4,We Found So Many Colorfull Fishes In Tube Well 😱,https://youtu.be/UpwjAWw1EFo
+fishes,2,7,"AU, CA, DE, GB, NO, SE, US",2496,2.8,We Found So Many Colorfull Fishes In Tube Well 😱,https://youtu.be/UpwjAWw1EFo
+survival,2,7,"AU, CA, DE, GB, NO, SE, US",2138,79.5,Survival Skills: SMART ideas andUSEFUL with single mom#bushcraft #camping #Outdoors #useful,https://youtu.be/MmI4xa5I8j4
+urdu stories,2,7,"AU, CA, GB, NL, NO, SE, US",2073,127.2,Darakhton Par Rehne Wali Pur-Asrar Qaum ka Qissa | Islamic Motivational Video | #islamicstories,https://youtu.be/ATmqBhwalGk
+moral story,3,5,"AU, CA, DE, GB, US",1940,381.4,पुलिस वाले ने आर्मी लड़की के साथ की बत्तमीजी/ फिर आर्मी लड़की ने फिर जो किया..Hindi kahani,https://youtu.be/6amsesulVM0
+emotional story,3,5,"AU, CA, DE, GB, US",1940,381.4,पुलिस वाले ने आर्मी लड़की के साथ की बत्तमीजी/ फिर आर्मी लड़की ने फिर जो किया..Hindi kahani,https://youtu.be/6amsesulVM0
+phone,2,7,"AU, CA, DE, GB, NO, SE, US",1838,6.9,"Naka Phone Lap Ka Kmie, Ïaka Jingaikhublei Ka Khun Shwa Ban Khlad",https://youtu.be/G6YwP_lAzjY
+found,2,7,"AU, CA, DE, GB, NO, SE, US",1690,3.4,We Found So Many Colorfull Fishes In Tube Well 😱,https://youtu.be/UpwjAWw1EFo
+communication skills,2,4,"AU, GB, NO, US",1678,3.2,Become a Dangerously Good Communicator.,https://youtu.be/lPWeEX5XEpk
+police,2,6,"AU, CA, DE, GB, NO, US",1582,95.2,She Punched the Flight Attendant in the Face — Airport Police Bodycam Legal Breakdown,https://youtu.be/0ciQXvatyRE
+media,2,5,"GB, NL, NO, SE, US",1572,225.0,Pakistani Baloch Destroyed Godi Media🤯 | Heavy Reply & Epic Debate😂 |Godi Media Roast,https://youtu.be/r5oBW5ObnB8
+dangerous,2,5,"AU, CA, DE, GB, US",1517,225.9,Robot Wars: Most Dangerous BattleBots Ever Built Explained,https://youtu.be/hJQV-5XhMDs
+prabowo,2,6,"AU, CA, GB, NL, NO, US",1487,15.7,PRABOWO KAGET! Istri Purbaya Ternyata Anak Jenderal & Mantan Model,https://youtu.be/SMLlG4odLQE
+learn english,2,5,"AU, CA, DE, GB, US",1432,149.7,A Stranger's Smile Hid a Dangerous Secret | Easy English Listening (A2),https://youtu.be/zgsJF4VEplI
+slow english,2,5,"AU, CA, DE, GB, US",1432,149.7,A Stranger's Smile Hid a Dangerous Secret | Easy English Listening (A2),https://youtu.be/zgsJF4VEplI
+easy english,2,5,"AU, CA, DE, GB, US",1432,149.7,A Stranger's Smile Hid a Dangerous Secret | Easy English Listening (A2),https://youtu.be/zgsJF4VEplI
+snake world,2,3,"DE, GB, US",1413,181.3,Snake World new Live Stream,https://youtu.be/vnpU4Sslfwc
+world stream,2,3,"DE, GB, US",1413,181.3,Snake World new Live Stream,https://youtu.be/vnpU4Sslfwc
+heart touching story,2,5,"AU, CA, DE, GB, US",1389,381.4,पुलिस वाले ने आर्मी लड़की के साथ की बत्तमीजी/ फिर आर्मी लड़की ने फिर जो किया..Hindi kahani,https://youtu.be/6amsesulVM0
+hindi kahani,2,5,"AU, CA, DE, GB, US",1389,381.4,पुलिस वाले ने आर्मी लड़की के साथ की बत्तमीजी/ फिर आर्मी लड़की ने फिर जो किया..Hindi kahani,https://youtu.be/6amsesulVM0
+hair,2,5,"AU, CA, GB, NO, US",1332,15.4,S.H Hair Cut is live,https://youtu.be/-uE0V1m38eI
+level,3,5,"AU, CA, DE, GB, US",1329,149.7,A Stranger's Smile Hid a Dangerous Secret | Easy English Listening (A2),https://youtu.be/zgsJF4VEplI
+truck,2,5,"AU, CA, GB, NO, US",1095,79.4,Ford F-150 Tow Truck Restomod & Customization | Babi Diecast 1/18 Scale,https://youtu.be/DDYA22vSMao
+tow,2,5,"AU, CA, GB, NO, US",1092,79.4,Ford F-150 Tow Truck Restomod & Customization | Babi Diecast 1/18 Scale,https://youtu.be/DDYA22vSMao
+explained,2,4,"DE, GB, NO, US",1017,225.9,Robot Wars: Most Dangerous BattleBots Ever Built Explained,https://youtu.be/hJQV-5XhMDs
+basically qari,3,2,"GB, US",889,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+learn quran,3,2,"GB, US",889,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+qari abubakar,3,2,"GB, US",889,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+quran basically,3,2,"GB, US",889,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+young ummah,3,2,"GB, US",889,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+call,2,4,"AU, GB, NO, US",853,5.3,No need to call a locksmith: simple tricks to open a lock without a key.,https://youtu.be/ExQ2KYZwxUQ
+fix,2,4,"AU, GB, NO, US",851,5.3,No need to call a locksmith: simple tricks to open a lock without a key.,https://youtu.be/ExQ2KYZwxUQ
+oilangizga ulashing,2,3,"NO, SE, US",829,26.4,📌 1966-YILGACHA TUG'ILGANMISIZ? Shoshilinch 2026 Pensiya Ogohlantirishi (Oilangizga Ulashing!),https://youtu.be/Yv0avnPQbGQ
+car,3,3,"GB, NO, US",782,67.3,12 Brand New Cars Nobody Wants In 2026 - Rotting On Lots,https://youtu.be/BMjOrOUlVY0
+challenge,2,3,"DE, GB, US",770,197.6,🧩 CAN YOU SOLVE THIS? 🔥 LIVE Puzzle Challenge | Brain Games & Impossible Puzzles #shorts #satisfying,https://youtu.be/VqqRyPwCVIU
+surah,3,2,"GB, US",711,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+qirat,3,2,"GB, US",711,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+namaz,3,2,"GB, US",711,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+mufti,3,2,"GB, US",711,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+islam,3,2,"GB, US",711,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+molana,3,2,"GB, US",711,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+hafiz,3,2,"GB, US",711,5.0,Surah Al Lahab (Qirat) | how to learn quran basically | Qari Abubakar,https://youtu.be/W5GiSLVG0o4
+rice lentil,2,2,"GB, US",710,51.9,✨RICE AND LENTIL ASMR ✨,https://youtu.be/QwYiHQHi294
+raweggpeeling,4,2,"GB, US",699,5.2,ASMR LIVE,https://youtu.be/OVwWKXEDCcc
+eggpeeling,4,2,"GB, US",699,5.2,ASMR LIVE,https://youtu.be/OVwWKXEDCcc
+rawegg,4,2,"GB, US",699,5.2,ASMR LIVE,https://youtu.be/OVwWKXEDCcc
+slowpeeling,4,2,"GB, US",699,5.2,ASMR LIVE,https://youtu.be/OVwWKXEDCcc
+art,4,2,"GB, US",699,5.2,ASMR LIVE,https://youtu.be/OVwWKXEDCcc
+adult,4,2,"GB, US",699,5.2,ASMR LIVE,https://youtu.be/OVwWKXEDCcc
+handskills,4,2,"GB, US",699,5.2,ASMR LIVE,https://youtu.be/OVwWKXEDCcc
+relaxation,4,2,"GB, US",699,5.2,ASMR LIVE,https://youtu.be/OVwWKXEDCcc
+special,2,3,"NO, SE, US",689,88.2,ஒருமுறை செய்து பாருங்க | Kerala Special Pidi Recipe | Cook with Lilly,https://youtu.be/GMzG1JgTR9g
+shoshilinch,2,3,"NO, SE, US",664,26.4,📌 1966-YILGACHA TUG'ILGANMISIZ? Shoshilinch 2026 Pensiya Ogohlantirishi (Oilangizga Ulashing!),https://youtu.be/Yv0avnPQbGQ
+pensiya,2,3,"NO, SE, US",664,26.4,📌 1966-YILGACHA TUG'ILGANMISIZ? Shoshilinch 2026 Pensiya Ogohlantirishi (Oilangizga Ulashing!),https://youtu.be/Yv0avnPQbGQ
+everything,2,3,"GB, NO, US",613,15.5,Henry Spotted a FAKE Pilot on the Plane... THEN Everything Changed! 😱✈️ | Slow English (A2 Level),https://youtu.be/rcknD16ihKM
+qirat read,2,2,"GB, US",516,4.6,Sura Al FalaQ & Surah Al Ikhlas (Qirat) | how to read quran basically | Qari Abubakar,https://youtu.be/RdKDNY3HU3k
+read quran,2,2,"GB, US",516,4.6,Sura Al FalaQ & Surah Al Ikhlas (Qirat) | how to read quran basically | Qari Abubakar,https://youtu.be/RdKDNY3HU3k
+nobody,2,2,"GB, US",418,67.3,12 Brand New Cars Nobody Wants In 2026 - Rotting On Lots,https://youtu.be/BMjOrOUlVY0
+stop,2,2,"NO, US",398,3.4,"Dear bollywood, STOP THIS!!!",https://youtu.be/DV9pVzqQPR0
+bikin,2,2,"NO, US",397,23.7,BIKIN NGILU!! REKAN MOTOVLOGER CRASH SAMPAI TERLINDAS AKIBAT INI | RIDE HISTORY REBORN,https://youtu.be/IMbnbv76ZW8
+apple,2,2,"NO, US",396,1.1,Apple October 13 Event Leaked! EVERYTHING We're Getting!,https://youtu.be/WfYKJoPZIc4
+news,2,2,"NO, US",393,1.3,"Dear bollywood, STOP THIS!!!",https://youtu.be/DV9pVzqQPR0
+huawei pro,2,1,US,260,1.1,"Smartwatch yg Cuma Sepertiga Harga Apple Watch Ultra 3, Tapi Lebih Bagus⁉️ Huawei Watch GT 7 Pro",https://youtu.be/UV93gkz6RD0
+hamad shafique,2,1,US,258,1.5,Ghoty Waly Humen Chhor Kar Apny City Chaly Gaye…! Emotional Alvida,https://youtu.be/s1d5hUSvXls
+ultra,2,1,US,208,1.1,"Smartwatch yg Cuma Sepertiga Harga Apple Watch Ultra 3, Tapi Lebih Bagus⁉️ Huawei Watch GT 7 Pro",https://youtu.be/UV93gkz6RD0
+chhor,2,1,US,206,1.5,Ghoty Waly Humen Chhor Kar Apny City Chaly Gaye…! Emotional Alvida,https://youtu.be/s1d5hUSvXls
