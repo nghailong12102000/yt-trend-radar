@@ -1,85 +1,93 @@
 term,n_videos,n_regions,regions,weight,max_outlier,example_title,example_url
-diy,4,8,"AU, CA, DE, GB, NL, NO, SE, US",7777,320.9,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
-house,5,8,"AU, CA, DE, GB, NL, NO, SE, US",7607,319.1,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-found,6,8,"AU, CA, DE, GB, NL, NO, SE, US",6677,242.9,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
-sleep,17,6,"AU, CA, DE, GB, NO, US",6303,165.4,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
-making,3,8,"AU, CA, DE, GB, NL, NO, SE, US",5910,319.1,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-clay,3,8,"AU, CA, DE, GB, NL, NO, SE, US",5910,319.1,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-deep sleep,15,3,"DE, GB, US",5324,165.4,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
-house making,2,8,"AU, CA, DE, GB, NL, NO, SE, US",5152,319.1,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-clay house,2,8,"AU, CA, DE, GB, NL, NO, SE, US",5152,319.1,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-miniature clay,2,8,"AU, CA, DE, GB, NL, NO, SE, US",5090,229.4,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-miniature clay house,2,8,"AU, CA, DE, GB, NL, NO, SE, US",5090,229.4,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-brain,12,8,"AU, CA, DE, GB, NL, NO, SE, US",4936,206.0,They Turned Brain Activity Into Images,https://youtu.be/z5olE7KCjzY
-documentary,5,8,"AU, CA, DE, GB, NL, NO, SE, US",4897,253.4,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
-mitti bartan,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4533,319.1,"DIY Miniatures Clay House Making & 12 Cute Tiny Kitchen Set | Mitti Bartan Craft 🏡✨""",https://youtu.be/z3OHdoIKdWY
-kitchen set,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4533,319.1,"DIY Miniatures Clay House Making & 12 Cute Tiny Kitchen Set | Mitti Bartan Craft 🏡✨""",https://youtu.be/z3OHdoIKdWY
-old,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4464,320.9,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
-sounds,15,3,"DE, GB, US",4259,165.4,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
-puzzle,15,3,"DE, GB, US",4259,165.4,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
-giant,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3862,231.3,Inside The High-End Factory: Giant Brahman Bull Horns Into Custom Leather Suitcases,https://youtu.be/fRr32KlxsG0
-craft,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3626,319.1,"DIY Miniatures Clay House Making & 12 Cute Tiny Kitchen Set | Mitti Bartan Craft 🏡✨""",https://youtu.be/z3OHdoIKdWY
-wild animals,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3283,242.9,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
-flying,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3201,89.6,Top 9 GIANT RC Bombers With Wingspans That Will SHOCK You!,https://youtu.be/k6ewTx7JGq8
-technology,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3117,27.8,"I Investigate the $75,000 ""AI Schools""",https://youtu.be/SC69VqCjRoQ
-tech,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3117,27.8,"I Investigate the $75,000 ""AI Schools""",https://youtu.be/SC69VqCjRoQ
-try,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3083,196.2,"I Was Blind, but Now I See | The Best Aloe Vera Recipes for Healthy Eyes You Should Try",https://youtu.be/ipr5N8BgAPg
-puzzle challenge,11,3,"DE, GB, US",3076,165.4,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-97",https://youtu.be/YIYqU32JsfQ
-games deep,11,3,"DE, GB, US",3076,165.4,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-97",https://youtu.be/YIYqU32JsfQ
-solve puzzle,11,3,"DE, GB, US",3076,165.4,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-97",https://youtu.be/YIYqU32JsfQ
-brain games,11,3,"DE, GB, US",3076,165.4,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-97",https://youtu.be/YIYqU32JsfQ
-sleep sounds,11,3,"DE, GB, US",3076,165.4,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-97",https://youtu.be/YIYqU32JsfQ
-challenge brain,11,3,"DE, GB, US",3076,165.4,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-97",https://youtu.be/YIYqU32JsfQ
-idea,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2985,1639.6,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
-90s,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2958,249.7,🌙 90s में सर्दियों की रात नानी के गाँव में भूत! 👻 | Nostalgic 90s Ghibli 2D Animation,https://youtu.be/iUYuq7g-5is
-roadster,3,7,"AU, CA, DE, GB, NO, SE, US",2788,0.8,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
-tesla,3,7,"AU, CA, DE, GB, NO, SE, US",2788,0.8,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
-tiny kitchen,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2747,319.1,"DIY Miniatures Clay House Making & 12 Cute Tiny Kitchen Set | Mitti Bartan Craft 🏡✨""",https://youtu.be/z3OHdoIKdWY
-amazing,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2701,320.9,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
-truck,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2565,446.4,Flatbed Truck Mcqueen | Transportation with Truck - Pothole vs Car # - BeamNG.Drive,https://youtu.be/w_BrWy6CFXE
-dog,3,5,"AU, CA, GB, NO, US",2502,34.4,He Was The Last Dog Left On Christmas Eve... Then Someone Knocked In The Snow 💔,https://youtu.be/bIidlX3UfXk
-car,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2370,446.4,Flatbed Truck Mcqueen | Transportation with Truck - Pothole vs Car # - BeamNG.Drive,https://youtu.be/w_BrWy6CFXE
-sleep relaxing,4,3,"DE, GB, US",2247,138.0,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
-sounds deep,4,3,"DE, GB, US",2247,138.0,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
-colorful puzzle,4,3,"DE, GB, US",2247,138.0,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
-puzzle sounds,4,3,"DE, GB, US",2247,138.0,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
-relaxing colorful,4,3,"DE, GB, US",2247,138.0,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
-happened,3,7,"AU, CA, DE, GB, NO, SE, US",2177,204.4,This El Niño Just Matched 1877. Here's What Happened Then.,https://youtu.be/uarq60-MT4s
-story,3,8,"AU, CA, DE, GB, NL, NO, SE, US",2134,233.2,"90s की Diwali🪔 पटाके फोड़ना🎇, घर में लड़ी लगाना | Diwali Nostalgia Story",https://youtu.be/VTa23dc2fG0
-it's,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2113,109.4,Zuckerberg Hired a 28-Year-Old for $14 Billion. It's Working.,https://youtu.be/ear9QWJv-u4
-animal rescue stories,2,5,"AU, CA, GB, NO, US",2090,34.4,He Was The Last Dog Left On Christmas Eve... Then Someone Knocked In The Snow 💔,https://youtu.be/bIidlX3UfXk
-elon musk,2,7,"AU, CA, DE, GB, NO, SE, US",1875,0.8,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
-minutes,2,7,"AU, CA, DE, GB, NO, SE, US",1859,5.5,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
-abc,2,8,"AU, CA, DE, GB, NL, NO, SE, US",1835,31.6,Learn Colors and ABC with Surprise Foam Lollipops | Preschool Toddler Learning Video,https://youtu.be/mwV8idvE0fc
-cooking,5,5,"AU, CA, DE, GB, US",1628,104.6,चूल्हे पर डोसा और चटनी #villagefood #livecooking,https://youtu.be/BZMBoeTtHfQ
-nature documentary,3,4,"AU, GB, NO, US",1194,253.4,A Polar Bear Mother Gives Birth … But Her Cubs Must Soon Face the Arctic | 4K Wildlife Documentary,https://youtu.be/1ozG-T3tP8Y
-wildlife documentary,3,4,"AU, GB, NO, US",1194,253.4,A Polar Bear Mother Gives Birth … But Her Cubs Must Soon Face the Arctic | 4K Wildlife Documentary,https://youtu.be/1ozG-T3tP8Y
-apple,3,5,"AU, CA, GB, NO, US",1166,7.7,"New Apple TV 4K (2026): You Had ONE JOB, Apple!",https://youtu.be/sEnMVADk4ko
-left,2,5,"AU, CA, GB, NO, US",1165,11.0,He Was The Last Dog Left On Christmas Eve... Then Someone Knocked In The Snow 💔,https://youtu.be/bIidlX3UfXk
-claude code,2,4,"AU, GB, NO, US",1152,5.5,소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ,https://youtu.be/tByhXkxDKDo
-review,2,5,"AU, CA, GB, NO, US",1001,8.0,"BMW i3 Review & Q&A | Range, 400 kW Charging & Highway Assistant",https://youtu.be/NqbkMIhVKTU
-fish,2,5,"AU, CA, GB, NO, US",980,104.6,We Found Big Mysty Fish Box In My House 😱,https://youtu.be/qdykyTklDcY
-outdoors,3,2,"DE, US",977,3367.1,The guy show survival skillsSave soap & water #outdoors #bushcraft #camping #shorts,https://youtu.be/_r0sUVbRmQo
-bushcraft,3,2,"DE, US",977,3367.1,The guy show survival skillsSave soap & water #outdoors #bushcraft #camping #shorts,https://youtu.be/_r0sUVbRmQo
-camping,3,2,"DE, US",977,3367.1,The guy show survival skillsSave soap & water #outdoors #bushcraft #camping #shorts,https://youtu.be/_r0sUVbRmQo
-survival,3,2,"DE, US",977,3367.1,The guy show survival skillsSave soap & water #outdoors #bushcraft #camping #shorts,https://youtu.be/_r0sUVbRmQo
-rice lentil,2,3,"DE, GB, US",921,191.9,✨🌾RICE AND LENTIL ASMR LIVE ✨🌾,https://youtu.be/9VEydFBNbS0
-roti,3,3,"DE, GB, US",914,23.9,आटे के पेड़े का खूबसूरत डिज़ाइन 🦋 #roti #cooking,https://youtu.be/17e8EVFfCkg
-animal behavior,2,4,"AU, GB, NO, US",824,253.4,A Polar Bear Mother Gives Birth … But Her Cubs Must Soon Face the Arctic | 4K Wildlife Documentary,https://youtu.be/1ozG-T3tP8Y
-survival skills,2,2,"DE, US",787,1639.6,The guys shows Survival skills save Soaps in the forest #camping #survival #bushcraft #outdoors,https://youtu.be/e6P7OAxIL_s
-bushcraft outdoors,2,2,"DE, US",787,1639.6,The guys shows Survival skills save Soaps in the forest #camping #survival #bushcraft #outdoors,https://youtu.be/e6P7OAxIL_s
-howto style,2,3,"DE, GB, US",756,23.9,आटे के पेड़े का खूबसूरत डिज़ाइन 🦋 #roti #cooking,https://youtu.be/17e8EVFfCkg
-sara rasoi,2,3,"DE, GB, US",756,23.9,आटे के पेड़े का खूबसूरत डिज़ाइन 🦋 #roti #cooking,https://youtu.be/17e8EVFfCkg
-away,2,3,"DE, GB, US",713,196.2,Never Throw Away a Broken Plug! Try This Simple Repair Trick,https://youtu.be/z6T7PKoxNwk
-forest,2,2,"DE, US",629,1639.6,The guys shows Survival skills save Soaps in the forest #camping #survival #bushcraft #outdoors,https://youtu.be/e6P7OAxIL_s
-stream,2,3,"DE, GB, US",605,23.9,आटे के पेड़े का खूबसूरत डिज़ाइन 🦋 #roti #cooking,https://youtu.be/17e8EVFfCkg
-trudy,2,3,"AU, NO, US",576,26.1,"TRIPLE ALERTA EN MÉXICO: Trudy Será Huracán Hoy, Simón Apunta a BCS y Entra el Frente Frío 2",https://youtu.be/KEy4KZDqAVI
-better less,2,2,"GB, US",452,42.1,"""There's a lot of money in this attic!"" | Live Better For Less Episode 3",https://youtu.be/9he-ufVMZoM
-food,2,3,"AU, CA, US",449,104.6,satisfying delicious street food#food #streetfood #cooking #satisfyingvideo #yummy #delicious,https://youtu.be/v5M7W3jRv40
-alienígena obstáculos,2,2,"NO, US",445,0.8,Hongo Alienígena vs. Obstáculos,https://youtu.be/elGx8JEDe2A
-useful,2,2,"DE, US",416,1639.6,Survival skills: Smart idea and Useful in the forest #survival #camping #bushcraft #outdoors,https://youtu.be/vnLBCN7h28o
-money,2,2,"GB, US",365,12.3,"""There's a lot of money in this attic!"" | Live Better For Less Episode 3",https://youtu.be/9he-ufVMZoM
-quran,2,2,"GB, US",363,29.9,most beautifull quran recitation in the world | how to read quran basically | Qari Abubakar,https://youtu.be/xi5y6E4o4ro
-artificial intelligence,2,2,"GB, US",306,74.7,You Truly Don't Understand What Just Happened to Mathematics,https://youtu.be/KqiDqJMxg6o
-amazon,2,2,"GB, US",247,253.4,Wild Peru: APEX PREDATORS of the Amazon | Amazon Wildlife Documentary,https://youtu.be/rKVw0h1LdHk
-gadgets,2,1,US,225,109.8,The Hack Yard is live!s1 e12,https://youtu.be/KzidNEvp-Gs
+diy,8,8,"AU, CA, DE, GB, NL, NO, SE, US",14431,416.8,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
+house,6,8,"AU, CA, DE, GB, NL, NO, SE, US",9393,292.0,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
+making,5,8,"AU, CA, DE, GB, NL, NO, SE, US",9183,292.0,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
+clay,5,8,"AU, CA, DE, GB, NL, NO, SE, US",9183,292.0,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
+miniature clay,4,8,"AU, CA, DE, GB, NL, NO, SE, US",8929,233.5,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
+old,4,8,"AU, CA, DE, GB, NL, NO, SE, US",8285,416.8,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
+giant,4,8,"AU, CA, DE, GB, NL, NO, SE, US",7995,252.0,Inside The High-End Factory: Giant Brahman Bull Horns Into Custom Leather Suitcases,https://youtu.be/fRr32KlxsG0
+house making,3,8,"AU, CA, DE, GB, NL, NO, SE, US",7727,292.0,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
+miniature clay house,3,8,"AU, CA, DE, GB, NL, NO, SE, US",7599,233.5,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
+deep,15,8,"AU, CA, DE, GB, NL, NO, SE, US",6958,157.9,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-98",https://youtu.be/xGAVVRSiC_U
+clay house,3,8,"AU, CA, DE, GB, NL, NO, SE, US",6698,292.0,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
+found,5,8,"AU, CA, DE, GB, NL, NO, SE, US",6692,348.3,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
+sounds,15,7,"AU, CA, DE, GB, NL, SE, US",6038,157.9,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-98",https://youtu.be/xGAVVRSiC_U
+flying,6,8,"AU, CA, DE, GB, NL, NO, SE, US",5445,96.9,Top 9 GIANT RC Bombers With Wingspans That Will SHOCK You!,https://youtu.be/k6ewTx7JGq8
+amazing,2,8,"AU, CA, DE, GB, NL, NO, SE, US",5261,416.8,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
+idea,2,8,"AU, CA, DE, GB, NL, NO, SE, US",5261,416.8,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
+clay animation,2,8,"AU, CA, DE, GB, NL, NO, SE, US",5177,233.5,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
+tech,4,8,"AU, CA, DE, GB, NL, NO, SE, US",5089,35.0,"I Investigate the $75,000 ""AI Schools""",https://youtu.be/SC69VqCjRoQ
+sleep,15,5,"AU, DE, GB, NO, US",5065,157.9,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-98",https://youtu.be/xGAVVRSiC_U
+mitti,3,8,"AU, CA, DE, GB, NL, NO, SE, US",5042,292.0,"DIY Miniatures Clay House Making & 12 Cute Tiny Kitchen Set | Mitti Bartan Craft 🏡✨""",https://youtu.be/z3OHdoIKdWY
+craft,3,8,"AU, CA, DE, GB, NL, NO, SE, US",5042,292.0,"DIY Miniatures Clay House Making & 12 Cute Tiny Kitchen Set | Mitti Bartan Craft 🏡✨""",https://youtu.be/z3OHdoIKdWY
+mitti bartan,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4973,292.0,"DIY Miniatures Clay House Making & 12 Cute Tiny Kitchen Set | Mitti Bartan Craft 🏡✨""",https://youtu.be/z3OHdoIKdWY
+kitchen set,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4973,292.0,"DIY Miniatures Clay House Making & 12 Cute Tiny Kitchen Set | Mitti Bartan Craft 🏡✨""",https://youtu.be/z3OHdoIKdWY
+animals,3,8,"AU, CA, DE, GB, NL, NO, SE, US",4833,348.3,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
+dog,4,8,"AU, CA, DE, GB, NL, NO, SE, US",4714,57.2,I Brought Home A Rescued Piglet… Now She Thinks My Giant Dog Is Her Mom,https://youtu.be/ULlM81kZrj8
+wild animals,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4694,348.3,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
+deep sleep,14,3,"DE, GB, US",4623,157.9,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-98",https://youtu.be/xGAVVRSiC_U
+documentary,3,8,"AU, CA, DE, GB, NL, NO, SE, US",4545,348.3,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
+scientists,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4444,348.3,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
+roadster,6,7,"AU, CA, DE, GB, NO, SE, US",4419,6.4,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
+preschool learning videos,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4002,59.1,Learn Colors and ABC with Surprise Foam Lollipops | Preschool Toddler Learning Video,https://youtu.be/mwV8idvE0fc
+learn colors,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4002,59.1,Learn Colors and ABC with Surprise Foam Lollipops | Preschool Toddler Learning Video,https://youtu.be/mwV8idvE0fc
+sleep sounds,11,3,"DE, GB, US",3790,157.9,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-98",https://youtu.be/xGAVVRSiC_U
+puzzle challenge,11,3,"DE, GB, US",3790,157.9,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-98",https://youtu.be/xGAVVRSiC_U
+solve puzzle,11,3,"DE, GB, US",3790,157.9,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-98",https://youtu.be/xGAVVRSiC_U
+brain games,11,3,"DE, GB, US",3790,157.9,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-98",https://youtu.be/xGAVVRSiC_U
+games deep,11,3,"DE, GB, US",3790,157.9,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-98",https://youtu.be/xGAVVRSiC_U
+challenge brain,11,3,"DE, GB, US",3790,157.9,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds-98",https://youtu.be/xGAVVRSiC_U
+tesla,7,7,"AU, CA, DE, GB, NO, SE, US",3788,35.0,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
+super niño,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3785,206.5,What Comes After a Super El Niño Is Worse,https://youtu.be/b32P6_hS8Ew
+diy mitti,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3752,30.6,Making a Realistic Miniature Clay Kitchen Set & House l Mitti Craft | DIY Mitti Bartan,https://youtu.be/9jy_uNaIg24
+mitti ghar,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3752,30.6,Making a Realistic Miniature Clay Kitchen Set & House l Mitti Craft | DIY Mitti Bartan,https://youtu.be/9jy_uNaIg24
+making realistic,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3752,30.6,Making a Realistic Miniature Clay Kitchen Set & House l Mitti Craft | DIY Mitti Bartan,https://youtu.be/9jy_uNaIg24
+mitti craft,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3752,30.6,Making a Realistic Miniature Clay Kitchen Set & House l Mitti Craft | DIY Mitti Bartan,https://youtu.be/9jy_uNaIg24
+realistic miniature,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3752,30.6,Making a Realistic Miniature Clay Kitchen Set & House l Mitti Craft | DIY Mitti Bartan,https://youtu.be/9jy_uNaIg24
+tiny kitchen,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3664,292.0,"DIY Miniatures Clay House Making & 12 Cute Tiny Kitchen Set | Mitti Bartan Craft 🏡✨""",https://youtu.be/z3OHdoIKdWY
+technology,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3542,35.0,"I Investigate the $75,000 ""AI Schools""",https://youtu.be/SC69VqCjRoQ
+animal communication,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3464,57.2,I Brought Home A Rescued Piglet… Now She Thinks My Giant Dog Is Her Mom,https://youtu.be/ULlM81kZrj8
+tesla roadster,6,7,"AU, CA, DE, GB, NO, SE, US",3388,35.0,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
+learn abc,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3135,102.0,Learn Colors and ABC with Surprise Foam Lollipops | Preschool Toddler Learning Video,https://youtu.be/mwV8idvE0fc
+alphabet kids,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3135,102.0,Learn Colors and ABC with Surprise Foam Lollipops | Preschool Toddler Learning Video,https://youtu.be/mwV8idvE0fc
+learn alphabet,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3135,102.0,Learn Colors and ABC with Surprise Foam Lollipops | Preschool Toddler Learning Video,https://youtu.be/mwV8idvE0fc
+dropped,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3067,14.7,Scientists Dropped Alligators Into the Deep Sea. Here’s What Ate Them,https://youtu.be/SDs41Ke3v4Q
+nino,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3028,206.5,What Comes After a Super El Niño Is Worse,https://youtu.be/b32P6_hS8Ew
+try,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2947,196.2,"I Was Blind, but Now I See | The Best Aloe Vera Recipes for Healthy Eyes You Should Try",https://youtu.be/ipr5N8BgAPg
+elon musk,4,7,"AU, CA, DE, GB, NO, SE, US",2868,35.0,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
+90s,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2800,255.6,"90s की Diwali🪔 पटाके फोड़ना🎇, घर में लड़ी लगाना | Diwali Nostalgia Story",https://youtu.be/VTa23dc2fG0
+america,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2788,12.6,America’s Housing Market Just Took a Very Strange Turn,https://youtu.be/SJwCJXzgRME
+mom,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2771,57.2,I Brought Home A Rescued Piglet… Now She Thinks My Giant Dog Is Her Mom,https://youtu.be/ULlM81kZrj8
+pets,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2771,57.2,I Brought Home A Rescued Piglet… Now She Thinks My Giant Dog Is Her Mom,https://youtu.be/ULlM81kZrj8
+tesla's,2,7,"AU, CA, DE, GB, NO, SE, US",2512,2.6,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
+minutes,2,7,"AU, CA, DE, GB, NO, SE, US",2499,6.2,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
+inside,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2442,252.0,Inside The High-End Factory: Giant Brahman Bull Horns Into Custom Leather Suitcases,https://youtu.be/fRr32KlxsG0
+rocket car,2,7,"AU, CA, DE, GB, NO, SE, US",2358,1.7,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
+flying roadster,2,7,"AU, CA, DE, GB, NO, SE, US",2358,1.7,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
+tesla roadster event,2,7,"AU, CA, DE, GB, NO, SE, US",2358,1.7,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
+happened,2,7,"AU, CA, DE, GB, NO, SE, US",2201,206.5,This El Niño Just Matched 1877. Here's What Happened Then.,https://youtu.be/uarq60-MT4s
+story,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2063,239.5,"90s की Diwali🪔 पटाके फोड़ना🎇, घर में लड़ी लगाना | Diwali Nostalgia Story",https://youtu.be/VTa23dc2fG0
+easy,2,7,"AU, CA, DE, GB, NO, SE, US",1911,18.5,"So Easy to Make, You Could Name Your Price!",https://youtu.be/JpQU1p5q9Yg
+supercut,2,7,"AU, CA, DE, GB, NO, SE, US",1886,1.7,Tesla's Flying Roadster Revealed: Everything That Happened in 10 Minutes,https://youtu.be/TWHXrLzUKJc
+fun,2,6,"AU, CA, DE, GB, NL, SE",1782,102.0,(10 min) Gus Goes to the Zoo! 🦁🐘 Learn 10 Wild Animals & Their Sounds |Fun Animal Adventure for Kids,https://youtu.be/pOh6nn4GESc
+colorful,4,5,"AU, CA, GB, NO, US",1730,131.5,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
+animal rescue stories,2,4,"AU, GB, NO, US",1710,37.6,He Was The Last Dog Left On Christmas Eve... Then Someone Knocked In The Snow 💔,https://youtu.be/bIidlX3UfXk
+here's,2,6,"AU, CA, DE, GB, NO, US",1688,206.5,This El Niño Just Matched 1877. Here's What Happened Then.,https://youtu.be/uarq60-MT4s
+cooking,5,5,"AU, CA, DE, GB, US",1519,154.0,आटे के पेड़े का नया सुंदर डिज़ाइन 🐠 #roti #cooking #live,https://youtu.be/Nr0lCztdhCY
+fish,3,6,"AU, CA, DE, GB, NO, US",1420,260.1,Korean Fish Special 🐟 Crispy Fish with Sweet Soy Garlic Gochujang 🔥 Mini Food Land,https://youtu.be/A12G1QdaRWg
+claude code,2,5,"AU, CA, GB, NO, US",1373,6.2,Claude Just Dropped MOTION. (Get Ahead of 95% in 11 Minutes.),https://youtu.be/yf2OwchM9nw
+bmw,2,5,"AU, CA, GB, NO, US",1147,13.1,"BMW i3 Review & Q&A | Range, 400 kW Charging & Highway Assistant",https://youtu.be/NqbkMIhVKTU
+cat,2,4,"AU, GB, NO, US",1032,30.5,What Happens to Your Cat When You Let Them Sleep in Your Bed,https://youtu.be/Dlrmk3ndrsI
+food,2,5,"AU, CA, DE, GB, US",958,154.0,Korean Fish Special 🐟 Crispy Fish with Sweet Soy Garlic Gochujang 🔥 Mini Food Land,https://youtu.be/A12G1QdaRWg
+relaxing colorful,3,2,"GB, US",733,131.5,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
+colorful puzzle,3,2,"GB, US",733,131.5,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
+sounds deep,3,2,"GB, US",733,131.5,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
+sleep relaxing,3,2,"GB, US",733,131.5,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
+puzzle sounds,3,2,"GB, US",733,131.5,🎧 Satisfying Sounds LIVE 😴 Deep Sleep & Relaxing ASMR | Colorful Puzzle Sounds 🧩,https://youtu.be/3Iw_ckFC4jk
+flying car,2,2,"NO, US",535,4.9,Tesla Rolls Out a Flying Roadster: See All the Highlights,https://youtu.be/quRC56Z0EJw
+hindi,2,2,"NO, US",405,2.3,Yoga By Daily Easy Yoga is live Yoga Classes Lifetime Free Part 222 Day All Age group In Hindi #13,https://youtu.be/LjcZn2VnZ6U
+roti,3,1,US,340,30.9,आटे के पेड़े का नया सुंदर डिज़ाइन 🐠 #roti #cooking #live,https://youtu.be/Nr0lCztdhCY
+howto style,2,1,US,293,30.9,आटे के पेड़े का नया सुंदर डिज़ाइन 🐠 #roti #cooking #live,https://youtu.be/Nr0lCztdhCY
+roti cooking,2,1,US,293,30.9,आटे के पेड़े का नया सुंदर डिज़ाइन 🐠 #roti #cooking #live,https://youtu.be/Nr0lCztdhCY
+sara rasoi,2,1,US,293,30.9,आटे के पेड़े का नया सुंदर डिज़ाइन 🐠 #roti #cooking #live,https://youtu.be/Nr0lCztdhCY
+stream,2,1,US,235,30.9,आटे के पेड़े का नया सुंदर डिज़ाइन 🐠 #roti #cooking #live,https://youtu.be/Nr0lCztdhCY
