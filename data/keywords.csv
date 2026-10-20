@@ -1,79 +1,96 @@
 term,n_videos,n_regions,regions,weight,max_outlier,example_title,example_url
-diy,10,8,"AU, CA, DE, GB, NL, NO, SE, US",18090,716.4,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
-house,7,8,"AU, CA, DE, GB, NL, NO, SE, US",10833,327.7,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-diy projects,3,8,"AU, CA, DE, GB, NL, NO, SE, US",8974,716.4,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
-deep,15,8,"AU, CA, DE, GB, NL, NO, SE, US",8764,142.5,Scientists Dropped Alligators Into the Deep Sea. Here’s What Ate Them,https://youtu.be/SDs41Ke3v4Q
-house making,4,8,"AU, CA, DE, GB, NL, NO, SE, US",8742,327.7,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-clay,5,8,"AU, CA, DE, GB, NL, NO, SE, US",8647,327.7,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-found,8,8,"AU, CA, DE, GB, NL, NO, SE, US",8003,384.8,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
-old,4,8,"AU, CA, DE, GB, NL, NO, SE, US",8002,716.4,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
-tiny kitchen,3,8,"AU, CA, DE, GB, NL, NO, SE, US",7963,327.7,Korean Fish Special 🐟 Crispy Fish with Sweet Soy Garlic Gochujang 🔥 Mini Food Land,https://youtu.be/A12G1QdaRWg
-scientists,3,8,"AU, CA, DE, GB, NL, NO, SE, US",7834,1123.0,What If Asteroid Apophis Hit Earth? Scientists Mapped Where It Lands,https://youtu.be/0iBYMwGDin0
-amazing,3,8,"AU, CA, DE, GB, NL, NO, SE, US",7789,716.4,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
-clay house,3,8,"AU, CA, DE, GB, NL, NO, SE, US",7657,327.7,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-kitchen set,3,8,"AU, CA, DE, GB, NL, NO, SE, US",7010,327.7,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
-mitti bartan,3,8,"AU, CA, DE, GB, NL, NO, SE, US",7010,327.7,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
-create amazing,2,8,"AU, CA, DE, GB, NL, NO, SE, US",6246,716.4,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
-creative ideas,2,8,"AU, CA, DE, GB, NL, NO, SE, US",6219,513.4,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
-diy ideas,2,8,"AU, CA, DE, GB, NL, NO, SE, US",6219,513.4,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
-idea,3,8,"AU, CA, DE, GB, NL, NO, SE, US",6019,716.4,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
-deep sleep,14,3,"DE, GB, US",5887,142.5,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
-miniature clay,3,8,"AU, CA, DE, GB, NL, NO, SE, US",5867,237.7,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-miniature clay house,3,8,"AU, CA, DE, GB, NL, NO, SE, US",5867,237.7,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-brain games,13,3,"DE, GB, US",5664,142.5,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
-games deep,13,3,"DE, GB, US",5664,142.5,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
-yourself,2,8,"AU, CA, DE, GB, NL, NO, SE, US",5200,716.4,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
-making tiny,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4942,327.7,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
-diy miniatures,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4942,327.7,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
-set mitti,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4942,327.7,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
-miniatures clay,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4942,327.7,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
-sleep sounds,12,3,"DE, GB, US",4934,142.5,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
-tool,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4772,513.4,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
-learn alphabet,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4637,125.2,ABC Alphabet for Kids 🐻 | Learn A to Z Through Fun Activities | ISHU the Bear,https://youtu.be/hEROVIkYbc0
-learn abc,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4637,125.2,ABC Alphabet for Kids 🐻 | Learn A to Z Through Fun Activities | ISHU the Bear,https://youtu.be/hEROVIkYbc0
-alphabet kids,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4637,125.2,ABC Alphabet for Kids 🐻 | Learn A to Z Through Fun Activities | ISHU the Bear,https://youtu.be/hEROVIkYbc0
-documentary,4,8,"AU, CA, DE, GB, NL, NO, SE, US",4629,384.8,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
-solve,13,3,"DE, GB, US",4532,142.5,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
-every,3,8,"AU, CA, DE, GB, NL, NO, SE, US",4397,748.6,"Whittier, Alaska: Why 270 People Wait Every Night to Be Locked In",https://youtu.be/YBQiN2ajwPw
-cement craft,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4341,716.4,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
-cement ideas,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4341,716.4,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
-tips tricks,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4266,41.1,Attach Old Plastic Bottle to Vacuum Cleaner and Create an Amazing Tool! Every House Needs This,https://youtu.be/MIt-AsX5msc
-found many,4,7,"AU, CA, DE, GB, NO, SE, US",4118,6.3,We Found So Many Colorful Fishes In Trash 😱,https://youtu.be/nIpneEnLUKE
-many colorful,4,7,"AU, CA, DE, GB, NO, SE, US",4118,6.3,We Found So Many Colorful Fishes In Trash 😱,https://youtu.be/nIpneEnLUKE
-clay animation,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3800,237.7,Cute Miniature Clay Strawberry House Making 🍓🏠 | How to Make a Strawberry House,https://youtu.be/79JBnUyF9mM
-roadster,6,8,"AU, CA, DE, GB, NL, NO, SE, US",3795,285.0,"テスラの""飛ぶ""ロードスターは、どうやって浮いているのか｜SpaceXの冷ガスと床下のファン",https://youtu.be/QsSl12zrzVk
-cooking,4,8,"AU, CA, DE, GB, NL, NO, SE, US",3762,300.9,Korean Fish Special 🐟 Crispy Fish with Sweet Soy Garlic Gochujang 🔥 Mini Food Land,https://youtu.be/A12G1QdaRWg
-bull,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3729,263.7,"They Thought The 2,500lb Bull Was Charging. Then He Did THIS... 🥹💔",https://youtu.be/Aw_NsfZHFWI
-giant,3,7,"AU, CA, DE, GB, NO, SE, US",3624,263.7,Inside The High-End Factory: Giant Brahman Bull Horns Into Custom Leather Suitcases,https://youtu.be/fRr32KlxsG0
-masterpiece,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3473,716.4,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
-crafts,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3413,41.1,Attach Old Plastic Bottle to Vacuum Cleaner and Create an Amazing Tool! Every House Needs This,https://youtu.be/MIt-AsX5msc
-charging,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3207,142.4,"They Thought The 2,500lb Bull Was Charging. Then He Did THIS... 🥹💔",https://youtu.be/Aw_NsfZHFWI
-puzzle challenge,9,3,"DE, GB, US",3097,142.5,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/b-JRXlys42M
-solve puzzle,9,3,"DE, GB, US",3097,142.5,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/b-JRXlys42M
-challenge brain,9,3,"DE, GB, US",3097,142.5,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/b-JRXlys42M
-learning,2,7,"AU, CA, DE, GB, NO, SE, US",2747,61.6,Learn Colors and ABC with Surprise Foam Lollipops | Preschool Toddler Learning Video,https://youtu.be/mwV8idvE0fc
-solve sleep,4,3,"DE, GB, US",2568,82.6,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
-stream brain,4,3,"DE, GB, US",2568,82.6,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
-sleep stream,4,3,"DE, GB, US",2568,82.6,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
-tested,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2555,384.8,Scientists Tested the Tasmanian Tiger’s DNA — And Found Something Nobody Expected,https://youtu.be/aWss7njOvMQ
-plastic,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2434,41.1,Attach Old Plastic Bottle to Vacuum Cleaner and Create an Amazing Tool! Every House Needs This,https://youtu.be/MIt-AsX5msc
-tesla,5,6,"DE, GB, NL, NO, SE, US",2422,285.0,"テスラの""飛ぶ""ロードスターは、どうやって浮いているのか｜SpaceXの冷ガスと床下のファン",https://youtu.be/QsSl12zrzVk
-trump,2,7,"AU, CA, DE, GB, NO, SE, US",2005,8.5,What Happens If Trump Loses The Midterms?,https://youtu.be/AyMHJBLc_tA
-foot,2,7,"AU, DE, GB, NL, NO, SE, US",1922,18.7,30-FOOT WAVES ON LAKE MICHIGAN — Waves Smash Indiana Lighthouse (Latest Updates),https://youtu.be/fYIHTwYE0DM
-someone,2,7,"AU, CA, DE, GB, NO, SE, US",1867,122.9,Someone Starts Throwing Punches. Here’s What to Do.,https://youtu.be/BZpf3QPt1CY
-happens,2,7,"AU, CA, DE, GB, NO, SE, US",1785,34.6,What Happens If Trump Loses The Midterms?,https://youtu.be/AyMHJBLc_tA
-easy,2,5,"AU, CA, GB, NO, US",1757,33.5,Yoga By Daily Easy Yoga is live Yoga Classes Lifetime Free Part 222 Day All Age group In Hindi #13,https://youtu.be/LjcZn2VnZ6U
-colorful chicks,2,5,"AU, CA, GB, NO, US",1473,4.0,We Found So Many Colorful Chicks In Plane 😱,https://youtu.be/GHfdXkWE-V8
-tesla roadster,4,3,"DE, GB, US",1295,74.7,"O Carro Voador do Elon Musk Chocou o Mundo — E Ferrari, Porsche e Bugatti Não Podem Fazer Nada!",https://youtu.be/5qISpaGqDP0
-spacex,2,5,"GB, NL, NO, SE, US",1275,285.0,"テスラの""飛ぶ""ロードスターは、どうやって浮いているのか｜SpaceXの冷ガスと床下のファン",https://youtu.be/QsSl12zrzVk
-engineering,2,5,"AU, CA, GB, NO, US",1189,6.1,I built a hammer that hits nails without touching them,https://youtu.be/Pt6AofswYn0
-photography,2,4,"AU, GB, NO, US",1106,28.7,Naked Beauty In Silver - Guido Argentini,https://youtu.be/EJt7YEr5HV4
-mundo,2,3,"DE, GB, US",1090,309.4,Los Trenes Más ENORMES del Mundo: ¿CÓMO Se Controlan?,https://youtu.be/TCyQlxGOJ3M
-dog,2,4,"AU, GB, NO, US",923,15.1,My Husband’s Rottweiler Never Liked Me…Then One Day He Found Him in My Lap,https://youtu.be/QHO1UfRPdn0
-más,2,3,"DE, GB, US",894,309.4,Los Trenes Más ENORMES del Mundo: ¿CÓMO Se Controlan?,https://youtu.be/TCyQlxGOJ3M
-elon musk,2,3,"DE, GB, US",881,74.7,"O Carro Voador do Elon Musk Chocou o Mundo — E Ferrari, Porsche e Bugatti Não Podem Fazer Nada!",https://youtu.be/5qISpaGqDP0
-bhuvana kitchen,2,2,"DE, US",829,230.0,Mana Bhuvana Kitchen is live,https://youtu.be/Z6Pbt3Fhjx4
-mana bhuvana,2,2,"DE, US",829,230.0,Mana Bhuvana Kitchen is live,https://youtu.be/Z6Pbt3Fhjx4
-works,2,3,"DE, GB, US",707,309.4,Los Trenes Más ENORMES del Mundo: ¿CÓMO Se Controlan?,https://youtu.be/TCyQlxGOJ3M
-better,2,2,"GB, US",453,40.5,"""There's a lot of money in this attic!"" | Live Better For Less Episode 3",https://youtu.be/9he-ufVMZoM
-roadster fly,2,1,US,294,10.5,All New 2028 Tesla Roadster can Fly - World Premiere and First Look,https://youtu.be/d2jH2x1HWxE
+diy,10,8,"AU, CA, DE, GB, NL, NO, SE, US",19083,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+diy projects,4,8,"AU, CA, DE, GB, NL, NO, SE, US",12495,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+old,4,8,"AU, CA, DE, GB, NL, NO, SE, US",10684,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+idea,5,8,"AU, CA, DE, GB, NL, NO, SE, US",9557,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+tiny kitchen,4,8,"AU, CA, DE, GB, NL, NO, SE, US",9274,352.5,Korean Fish Special 🐟 Crispy Fish with Sweet Soy Garlic Gochujang 🔥 Mini Food Land,https://youtu.be/A12G1QdaRWg
+amazing,3,8,"AU, CA, DE, GB, NL, NO, SE, US",8027,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+yourself,3,8,"AU, CA, DE, GB, NL, NO, SE, US",7900,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+create,3,8,"AU, CA, DE, GB, NL, NO, SE, US",7890,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+kitchen set,4,8,"AU, CA, DE, GB, NL, NO, SE, US",7629,314.8,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
+mitti bartan,4,8,"AU, CA, DE, GB, NL, NO, SE, US",7629,314.8,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
+cement craft,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+cement diy,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+bricks around,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+smart construction,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+construction tips,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+cement ideas,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+idea old,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+old mason,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+building tips,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+creative cement,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+construction hacks,2,8,"AU, CA, DE, GB, NL, NO, SE, US",7242,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+create amazing,2,8,"AU, CA, DE, GB, NL, NO, SE, US",6540,882.0,Crazy Idea from a 65-Year-Old Mason — Bricks Around a Bicycle Wheel Create an Amazing Masterpiece!,https://youtu.be/C7fQnppBEHk
+every,4,8,"AU, CA, DE, GB, NL, NO, SE, US",6151,758.9,"Whittier, Alaska: Why 270 People Wait Every Night to Be Locked In",https://youtu.be/YBQiN2ajwPw
+creative ideas,2,8,"AU, CA, DE, GB, NL, NO, SE, US",6126,529.2,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
+diy ideas,2,8,"AU, CA, DE, GB, NL, NO, SE, US",6126,529.2,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
+making,4,8,"AU, CA, DE, GB, NL, NO, SE, US",6104,314.8,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
+set mitti,3,8,"AU, CA, DE, GB, NL, NO, SE, US",6099,314.8,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
+house,5,8,"AU, CA, DE, GB, NL, NO, SE, US",5692,314.8,Attach Old Plastic Bottle to Vacuum Cleaner and Create an Amazing Tool! Every House Needs This,https://youtu.be/MIt-AsX5msc
+scientists,2,8,"AU, CA, DE, GB, NL, NO, SE, US",5580,1196.3,What If Asteroid Apophis Hit Earth? Scientists Mapped Where It Lands,https://youtu.be/0iBYMwGDin0
+deep,11,8,"AU, CA, DE, GB, NL, NO, SE, US",5430,118.7,Scientists Dropped Alligators Into the Deep Sea. Here’s What Ate Them,https://youtu.be/SDs41Ke3v4Q
+miniature cooking,2,8,"AU, CA, DE, GB, NL, NO, SE, US",5295,352.5,Korean Fish Special 🐟 Crispy Fish with Sweet Soy Garlic Gochujang 🔥 Mini Food Land,https://youtu.be/A12G1QdaRWg
+tool,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4890,529.2,50 Year Old Carpenter's Million Dollar Idea Amazes Engineers! Amazing DIY Woodworking Tool,https://youtu.be/T0MnrH8CwQQ
+clay,4,7,"AU, CA, DE, GB, NO, SE, US",4889,314.8,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
+night,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4853,758.9,"Whittier, Alaska: Why 270 People Wait Every Night to Be Locked In",https://youtu.be/YBQiN2ajwPw
+found,5,7,"AU, CA, DE, GB, NO, SE, US",4739,23.5,We Found So Many Colorful Fishes In Trash 😱,https://youtu.be/nIpneEnLUKE
+learn alphabet,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4591,125.0,ABC Alphabet for Kids 🐻 | Learn A to Z Through Fun Activities | ISHU the Bear,https://youtu.be/hEROVIkYbc0
+learn abc,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4591,125.0,ABC Alphabet for Kids 🐻 | Learn A to Z Through Fun Activities | ISHU the Bear,https://youtu.be/hEROVIkYbc0
+alphabet kids,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4591,125.0,ABC Alphabet for Kids 🐻 | Learn A to Z Through Fun Activities | ISHU the Bear,https://youtu.be/hEROVIkYbc0
+tips tricks,2,8,"AU, CA, DE, GB, NL, NO, SE, US",4429,48.3,Attach Old Plastic Bottle to Vacuum Cleaner and Create an Amazing Tool! Every House Needs This,https://youtu.be/MIt-AsX5msc
+bartan kitchen,2,7,"AU, CA, DE, GB, NO, SE, US",4094,314.8,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
+has,3,8,"AU, CA, DE, GB, NL, NO, SE, US",3878,621.7,Only ONE US Destroyer Has This Gun. The Navy Just Ordered 22 More.,https://youtu.be/w8IrHNDOtoA
+found many,3,7,"AU, CA, DE, GB, NO, SE, US",3715,7.3,We Found So Many Colorful Fishes In Trash 😱,https://youtu.be/nIpneEnLUKE
+many colorful,3,7,"AU, CA, DE, GB, NO, SE, US",3715,7.3,We Found So Many Colorful Fishes In Trash 😱,https://youtu.be/nIpneEnLUKE
+crafts,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3543,48.3,Attach Old Plastic Bottle to Vacuum Cleaner and Create an Amazing Tool! Every House Needs This,https://youtu.be/MIt-AsX5msc
+miniature clay house,2,7,"AU, CA, DE, GB, NO, SE, US",3516,97.1,DIY Clay Miniature | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video Making,https://youtu.be/KWaqhQj7Mcg
+colorful fishes,2,7,"AU, CA, DE, GB, NO, SE, US",3446,7.3,We Found So Many Colorful Fishes In Trash 😱,https://youtu.be/nIpneEnLUKE
+roadster,6,7,"AU, CA, DE, GB, NO, SE, US",3204,314.0,I Went to Tesla's Roadster Event… here's what they didn't show you,https://youtu.be/pomFE55c_Sw
+years,2,8,"AU, CA, DE, GB, NL, NO, SE, US",3004,106.3,This Winter Will Be Unlike Any in 130 Years — 2026-27 US Winter Forecast,https://youtu.be/v5DwF8dUVrA
+mini,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2992,352.5,Korean Fish Special 🐟 Crispy Fish with Sweet Soy Garlic Gochujang 🔥 Mini Food Land,https://youtu.be/A12G1QdaRWg
+beautiful,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2877,233.0,Crazy Idea from a 65-Year-Old Mason — Build Bricks Around a Ball to Create a Beautiful Pizza Oven!,https://youtu.be/gCpctQH8cMg
+qué,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2763,126.5,¿Qué hay debajo de la Torre Latinoamericana? (y por qué no se cae),https://youtu.be/xInAqXmBSxQ
+learning,2,7,"AU, CA, DE, GB, NO, SE, US",2757,65.0,Learn Colors and ABC with Surprise Foam Lollipops | Preschool Toddler Learning Video,https://youtu.be/mwV8idvE0fc
+deep sleep,10,3,"DE, GB, US",2741,118.7,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sound 105",https://youtu.be/VsWyEJ069IU
+clay house,2,7,"AU, CA, DE, GB, NO, SE, US",2596,314.8,DIY Miniatures Clay House making | 12 Cute Tiny Kitchen Set Mitti Bartan | All Kitchen set Video,https://youtu.be/4lXzw7GGCSM
+brain games,9,3,"DE, GB, US",2518,82.8,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sound 105",https://youtu.be/VsWyEJ069IU
+games deep,9,3,"DE, GB, US",2518,82.8,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sound 105",https://youtu.be/VsWyEJ069IU
+world,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2422,621.7,Only ONE US Destroyer Has This Gun. The Navy Just Ordered 22 More.,https://youtu.be/w8IrHNDOtoA
+end,2,7,"AU, CA, DE, GB, NO, SE, US",2366,265.4,Inside The High-End Factory: Giant Brahman Bull Horns Into Custom Leather Suitcases,https://youtu.be/fRr32KlxsG0
+needs,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2310,48.3,Attach Old Plastic Bottle to Vacuum Cleaner and Create an Amazing Tool! Every House Needs This,https://youtu.be/MIt-AsX5msc
+trump,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2307,12.9,What Happens If Trump Loses The Midterms?,https://youtu.be/AyMHJBLc_tA
+happens,2,8,"AU, CA, DE, GB, NL, NO, SE, US",2288,36.2,What Happens If Trump Loses The Midterms?,https://youtu.be/AyMHJBLc_tA
+documentary,4,5,"AU, DE, GB, NO, US",2050,104.1,“Friendly” Cop Has No Idea His Career Will End With 25 Years in Prison,https://youtu.be/-3AqN4VCLoU
+solve,9,3,"DE, GB, US",2014,82.8,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sound 105",https://youtu.be/VsWyEJ069IU
+jalebi,2,7,"AU, CA, DE, GB, NL, SE, US",1635,296.8,12 Cute Tiny Kitchen Set Mitti Bartan Making | Boy Steals Jalebi! | All Kitchen Set Video,https://youtu.be/Jhby13sEIrw
+solve puzzle,5,3,"DE, GB, US",1628,82.8,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sound 105",https://youtu.be/VsWyEJ069IU
+challenge brain,5,3,"DE, GB, US",1628,82.8,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sound 105",https://youtu.be/VsWyEJ069IU
+puzzle challenge,5,3,"DE, GB, US",1628,82.8,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sound 105",https://youtu.be/VsWyEJ069IU
+easy,2,5,"AU, CA, GB, NO, US",1494,14.7,I’ve been buying apples every week since trying this air fryer trick—it’s incredibly easy!,https://youtu.be/F7T--vk58mg
+tesla,5,3,"GB, NO, US",1410,314.0,"テスラの""飛ぶ""ロードスターは、どうやって浮いているのか｜SpaceXの冷ガスと床下のファン",https://youtu.be/QsSl12zrzVk
+children yoga,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+fun yoga kids,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+yoga confidence,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+yoga emotional balance,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+yoga adventure kids,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+kids yoga class,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+confidence yoga kids,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+yoga focus,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+yoga beginners kids,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+kids yoga routine,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+yoga concentration,2,4,"AU, GB, NO, US",1400,5.5,Rumi’s Confidence Flow | Yoga for Confidence & Stability | Rainbow Yoga #34,https://youtu.be/zfUVmco6tJ8
+engineering,2,4,"AU, GB, NO, US",1113,6.2,I built a hammer that hits nails without touching them,https://youtu.be/Pt6AofswYn0
+sleep sounds,7,1,US,1082,82.8,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
+sleep sound,2,3,"DE, GB, US",993,73.2,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Puzzle Challenge | Satisfying ASMR, Brain Games & Deep Sleep Sound 105",https://youtu.be/VsWyEJ069IU
+dog,2,4,"AU, GB, NO, US",944,16.9,My Husband’s Rottweiler Never Liked Me…Then One Day He Found Him in My Lap,https://youtu.be/QHO1UfRPdn0
+tesla roadster,4,2,"GB, US",943,83.8,"O Carro Voador do Elon Musk Chocou o Mundo — E Ferrari, Porsche e Bugatti Não Podem Fazer Nada!",https://youtu.be/5qISpaGqDP0
+better less,4,2,"GB, US",932,45.3,"""There's a lot of money in this attic!"" | Live Better For Less Episode 3",https://youtu.be/9he-ufVMZoM
+stuff,2,4,"AU, GB, NO, US",917,15.4,I built a hammer that hits nails without touching them,https://youtu.be/Pt6AofswYn0
+villagefood livecooking,2,2,"GB, US",778,15.8,चूल्हे पर मसाला डोसा और टिक्की #villagefood #livecooking,https://youtu.be/6DpBv0xdlxo
+spacex,2,3,"GB, NO, US",717,314.0,"テスラの""飛ぶ""ロードスターは、どうやって浮いているのか｜SpaceXの冷ガスと床下のファン",https://youtu.be/QsSl12zrzVk
+sleep stream,4,1,US,631,82.6,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
+stream brain,4,1,US,631,82.6,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
+solve sleep,4,1,US,631,82.6,"🧩 CAN YOU SOLVE THIS? 🔥LIVE Sleep Stream | Satisfying ASMR, Brain Games & Deep Sleep Sounds",https://youtu.be/pa48oEJn2p8
+elon musk,2,2,"GB, US",578,83.8,"O Carro Voador do Elon Musk Chocou o Mundo — E Ferrari, Porsche e Bugatti Não Podem Fazer Nada!",https://youtu.be/5qISpaGqDP0
+photography,2,2,"NO, US",447,28.9,Naked Beauty In Silver - Guido Argentini,https://youtu.be/EJt7YEr5HV4
+roadster fly,2,1,US,294,11.6,All New 2028 Tesla Roadster can Fly - World Premiere and First Look,https://youtu.be/d2jH2x1HWxE
